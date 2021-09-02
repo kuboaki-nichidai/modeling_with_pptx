@@ -1,2 +1,0 @@
-# modeling_with_pptx
-PowerPointを使ったモデリング演習
